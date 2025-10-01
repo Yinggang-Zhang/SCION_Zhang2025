@@ -12,6 +12,6 @@ The revisions we did here are:
 
 Requires MATLAB.
 
-For more information on running the model see the Guidebook in the documentation folder. For scientific derivaiton see the journal articles listed in the Guidebook.
+For more information on running the model see the Guidebook in the documentation folder. For scientific derivation see the journal articles listed in the Guidebook.
 
 The model is under continual revision/extension by my research group and collaborators. For any queries or collaboration ideas please email ygzhang@nigpas.ac.cn or B.Mills@leeds.ac.uk
