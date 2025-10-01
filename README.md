@@ -7,10 +7,10 @@ This code is a modified version of SCION for Zhang et al. (2025) Geophysical Res
 SCION is a global climate-biogeochemical model that runs over geological timescales. It runs forwards in time and computes the Earth’s major elemental cycles and surface climate. It also predicts the values of a suite of geochemical tracers to aid in hypothesis testing.
 
 The revisions we did here are:
-1. the ocean box is splited into two boxes: shelf and interior ocean.
+1. the ocean box is divided into two boxes: shelf and interior ocean.
 2. Insolation forcing is newly added to the model.
 
-Requies MATLAB.
+Requires MATLAB.
 
 For more information on running the model see the Guidebook in the documentation folder. For scientific derivaiton see the journal articles listed in the Guidebook.
 
